@@ -25,9 +25,9 @@ Currently, I'm looking for full-time opportunities for Summer 2022, in any field
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/xChickens/xChickens/pull/1) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
-2. 💪 Opened PR [#1](https://github.com/xChickens/xChickens/pull/1) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
-3. 🎉 Merged PR [#1](https://github.com/xChickens/xChickens/pull/1) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+1. 🗣 Commented on [#15](https://github.com/Detergent13/tft-bot/issues/15) in [Detergent13/tft-bot](https://github.com/Detergent13/tft-bot)
+2. 🎉 Merged PR [#1](https://github.com/xChickens/xChickens/pull/1) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+3. 💪 Opened PR [#1](https://github.com/xChickens/xChickens/pull/1) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
 <!--END_SECTION:activity-->
 
 </details>
