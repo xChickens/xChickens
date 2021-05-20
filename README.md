@@ -12,6 +12,10 @@ Currently, I'm looking for full-time opportunities for Summer 2022, in any field
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/xChickens/xChickens/pull/1) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+2. 💪 Opened PR [#1](https://github.com/xChickens/xChickens/pull/1) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+3. 🗣 Commented on [#6433](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/6433) in [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions)
+<!--END_SECTION:activity-->
 
 </details>
 
