@@ -25,9 +25,9 @@ Currently, I'm looking for full-time opportunities for Summer 2022, in any field
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
-2. ❗️ Opened issue [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
-3. 🗣 Commented on [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+1. 🗣 Commented on [#1](https://github.com/blackluv/Microsoft-Rewards-Bot/issues/1) in [blackluv/Microsoft-Rewards-Bot](https://github.com/blackluv/Microsoft-Rewards-Bot)
+2. 🗣 Commented on [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
+3. ❗️ Opened issue [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
 <!--END_SECTION:activity-->
 
 </details>
