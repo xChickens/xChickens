@@ -27,10 +27,8 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
-2. 📔 Created new repository [cse30-fa21/A9-starter](https://github.com/cse30-fa21/A9-starter)
-3. ⭐ Starred [reinderien/mimic](https://github.com/reinderien/mimic)
-<!--RECENT_ACTIVITY:end-->
+  
+<!--RECENT_ACTIVITY:last_update-->
 
 </details>
 
