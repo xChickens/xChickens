@@ -27,9 +27,9 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🗣 Commented on [#1](https://github.com/blackluv/Microsoft-Rewards-Bot/issues/1) in [blackluv/Microsoft-Rewards-Bot](https://github.com/blackluv/Microsoft-Rewards-Bot)
-2. 🗣 Commented on [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
-3. ❗️ Opened issue [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
+1. ✔️ Closed issue [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+2. 📔 Created new repository [cse30-fa21/A9-starter](https://github.com/cse30-fa21/A9-starter)
+3. ⭐ Starred [reinderien/mimic](https://github.com/reinderien/mimic)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
