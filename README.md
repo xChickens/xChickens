@@ -1,8 +1,10 @@
 ### Hi there, I'm Chris! 👋
 
-I'm a third year student at the University of California, San Diego pursuing a B.S. in Computer Science and I'm aspiring a career in Software Engineering. My current expectations are to complete my degree by Spring 2021 and finish the B.S./M.S. program to complete my M.S. in Computer Science by Spring 2022.
+I'm a fourth year student at the University of California, San Diego pursuing a M.S. in Computer Science and aspire a career in Software Engineering. My current expectations are to complete my degree by Spring 2022.
 
-Currently, I'm looking for full-time opportunities for Summer 2022, in any fields of Software Development. Please feel free to contact me for more information! Thank you!
+I currently have a B.S. degree in Computer Science, completed in Spring 2021. I expect to start working at Amazon in San Diego on the Buyer Abuse Engineering Team in Fall 2022.
+
+Currently, I'm open to full-time opportunities, in any fields of Software Development. Please feel free to contact me for more information! Thank you!
 
 
 - 💬 Ask me about anything [here](https://github.com/xChickens/xChickens/issues)
