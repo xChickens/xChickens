@@ -26,11 +26,11 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 🗣 Commented on [#1](https://github.com/blackluv/Microsoft-Rewards-Bot/issues/1) in [blackluv/Microsoft-Rewards-Bot](https://github.com/blackluv/Microsoft-Rewards-Bot)
 2. 🗣 Commented on [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
 3. ❗️ Opened issue [#17](https://github.com/exuanbo/ts-standardx/issues/17) in [exuanbo/ts-standardx](https://github.com/exuanbo/ts-standardx)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 </details>
 
