@@ -27,11 +27,11 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
-2. 📔 Created new repository [cse30-fa21/A9-starter](https://github.com/cse30-fa21/A9-starter)
-3. ⭐ Starred [reinderien/mimic](https://github.com/reinderien/mimic)
-4. ⭐ Starred [nvbn/thefuck](https://github.com/nvbn/thefuck)
-5. 👍 Approved [#1](https://github.com/cse30-fa21/A3-starter/pull/1#pullrequestreview-777864948) in [cse30-fa21/A3-starter](https://github.com/cse30-fa21/A3-starter)
+1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ✔️ Closed issue [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+3. 📔 Created new repository [cse30-fa21/A9-starter](https://github.com/cse30-fa21/A9-starter)
+4. ⭐ Starred [reinderien/mimic](https://github.com/reinderien/mimic)
+5. ⭐ Starred [nvbn/thefuck](https://github.com/nvbn/thefuck)
 6. 
 7. 
 8. 
@@ -45,7 +45,7 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 24th, 2021, 6:05:39 AM
+Last Updated: Friday, December 24th, 2021, 6:10:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
