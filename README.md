@@ -27,11 +27,11 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ✔️ Closed issue [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
-3. 📔 Created new repository [cse30-fa21/A9-starter](https://github.com/cse30-fa21/A9-starter)
-4. ⭐ Starred [reinderien/mimic](https://github.com/reinderien/mimic)
-5. ⭐ Starred [nvbn/thefuck](https://github.com/nvbn/thefuck)
+1. ✔️ Closed issue [#3](https://github.com/xChickens/xChickens/issues/3) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+2. 💬 Commented on [#3](https://github.com/xChickens/xChickens/issues/3#issuecomment-1044435298) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ✔️ Closed issue [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+5. 📔 Created new repository [cse30-fa21/A9-starter](https://github.com/cse30-fa21/A9-starter)
 6. 
 7. 
 8. 
@@ -45,7 +45,7 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 18th, 2022, 4:10:04 AM
+Last Updated: Friday, February 18th, 2022, 4:49:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
