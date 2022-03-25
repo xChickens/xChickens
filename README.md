@@ -29,12 +29,10 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
 <!--RECENT_ACTIVITY:start-->
 1. ✔️ Closed issue [#3](https://github.com/xChickens/xChickens/issues/3) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
 2. 💬 Commented on [#3](https://github.com/xChickens/xChickens/issues/3#issuecomment-1044435298) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
-3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ✔️ Closed issue [#2](https://github.com/xChickens/xChickens/issues/2) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 24th, 2022, 4:28:23 PM
+Last Updated: Thursday, March 24th, 2022, 6:00:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
