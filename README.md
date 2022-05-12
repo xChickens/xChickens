@@ -27,13 +27,14 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [xChickens/cse231-pa2](https://github.com/xChickens/cse231-pa2) from [ucsd-cse231-s22/lecture4](https://github.com/ucsd-cse231-s22/lecture4)
-2. ✔️ Closed issue [#3](https://github.com/xChickens/xChickens/issues/3) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
-3. 💬 Commented on [#3](https://github.com/xChickens/xChickens/issues/3#issuecomment-1044435298) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+1. 🔱 Forked [xChickens/chocopy-wasm-compiler-B](https://github.com/xChickens/chocopy-wasm-compiler-B) from [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+2. 🔱 Forked [xChickens/cse231-pa2](https://github.com/xChickens/cse231-pa2) from [ucsd-cse231-s22/lecture4](https://github.com/ucsd-cse231-s22/lecture4)
+3. ✔️ Closed issue [#3](https://github.com/xChickens/xChickens/issues/3) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+4. 💬 Commented on [#3](https://github.com/xChickens/xChickens/issues/3#issuecomment-1044435298) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 11th, 2022, 6:45:53 PM
+Last Updated: Wednesday, May 11th, 2022, 7:36:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
