@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [xChickens/chocopy-wasm-compiler-B](https://github.com/xChickens/chocopy-wasm-compiler-B)
-2. 💪 Opened PR [#23](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/23) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-3. 🔱 Forked [xChickens/chocopy-wasm-compiler-B](https://github.com/xChickens/chocopy-wasm-compiler-B) from [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-4. 🔱 Forked [xChickens/cse231-pa2](https://github.com/xChickens/cse231-pa2) from [ucsd-cse231-s22/lecture4](https://github.com/ucsd-cse231-s22/lecture4)
-5. ✔️ Closed issue [#3](https://github.com/xChickens/xChickens/issues/3) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+1. 💪 Opened PR [#2](https://github.com/lim-rachel/chocopy-wasm-compiler-B/pull/2) in [lim-rachel/chocopy-wasm-compiler-B](https://github.com/lim-rachel/chocopy-wasm-compiler-B)
+2. 🤝 Became collaborator on [xChickens/chocopy-wasm-compiler-B](https://github.com/xChickens/chocopy-wasm-compiler-B)
+3. 💪 Opened PR [#23](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/23) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+4. 🔱 Forked [xChickens/chocopy-wasm-compiler-B](https://github.com/xChickens/chocopy-wasm-compiler-B) from [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+5. 🔱 Forked [xChickens/cse231-pa2](https://github.com/xChickens/cse231-pa2) from [ucsd-cse231-s22/lecture4](https://github.com/ucsd-cse231-s22/lecture4)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 11th, 2022, 9:19:21 PM
+Last Updated: Wednesday, May 11th, 2022, 9:42:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
