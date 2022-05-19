@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#29](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/29#discussion_r876541791) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-2. 💬 Commented on [#29](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/29#discussion_r876504293) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-3. 💬 Commented on [#16](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/16#discussion_r875154295) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-4. 💬 Commented on [#16](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/16#discussion_r875152148) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-5. 💬 Commented on [#3](https://github.com/lim-rachel/chocopy-wasm-compiler-B/pull/3#issuecomment-1124558722) in [lim-rachel/chocopy-wasm-compiler-B](https://github.com/lim-rachel/chocopy-wasm-compiler-B)
+1. 👍 Approved [#29](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/29#pullrequestreview-977872440) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+2. 👍 Approved [#29](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/29#pullrequestreview-977872219) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+3. 💬 Commented on [#29](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/29#discussion_r876541791) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+4. 💬 Commented on [#29](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/29#discussion_r876504293) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+5. 💬 Commented on [#16](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/16#discussion_r875154295) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 18th, 2022, 6:56:00 PM
+Last Updated: Wednesday, May 18th, 2022, 7:47:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
