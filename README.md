@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#88](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/88) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-2. 💪 Opened PR [#5](https://github.com/jmakings/chocopy-wasm-compiler-B/pull/5) in [jmakings/chocopy-wasm-compiler-B](https://github.com/jmakings/chocopy-wasm-compiler-B)
-3. 💬 Commented on [#66](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/66#issuecomment-1136596205) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-4. ❌ Closed PR [#23](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/23) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
-5. 💬 Commented on [#23](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B/pull/23#issuecomment-1136593066) in [ucsd-cse231-s22/chocopy-wasm-compiler-B](https://github.com/ucsd-cse231-s22/chocopy-wasm-compiler-B)
+1. ⬆️ Pushed 1 commit(s) to [lim-rachel/chocopy-wasm-compiler-B](https://github.com/lim-rachel/chocopy-wasm-compiler-B)
+2. ⬆️ Pushed 1 commit(s) to [lim-rachel/chocopy-wasm-compiler-B](https://github.com/lim-rachel/chocopy-wasm-compiler-B)
+3. ⬆️ Pushed 1 commit(s) to [lim-rachel/chocopy-wasm-compiler-B](https://github.com/lim-rachel/chocopy-wasm-compiler-B)
+4. ⬆️ Pushed 0 commit(s) to [lim-rachel/chocopy-wasm-compiler-B](https://github.com/lim-rachel/chocopy-wasm-compiler-B)
+5. ⬆️ Pushed 1 commit(s) to [lim-rachel/chocopy-wasm-compiler-B](https://github.com/lim-rachel/chocopy-wasm-compiler-B)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 7th, 2022, 7:06:36 AM
+Last Updated: Tuesday, June 7th, 2022, 7:40:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
