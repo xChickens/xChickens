@@ -35,7 +35,7 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 19th, 2022, 9:10:21 PM
+Last Updated: Friday, August 19th, 2022, 9:36:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
