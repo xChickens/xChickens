@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](https://github.com/MaciejGorczyca/HextechButBetter/pull/12) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
-2. 🔱 Forked [xChickens/HextechButBetter](https://github.com/xChickens/HextechButBetter) from [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
-3. 💬 Commented on [#11](https://github.com/MaciejGorczyca/HextechButBetter/issues/11#issuecomment-1225259599) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
-4. ❗️ Opened issue [#11](https://github.com/MaciejGorczyca/HextechButBetter/issues/11) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
-5. ✔️ Closed issue [#4](https://github.com/xChickens/xChickens/issues/4) in [xChickens/xChickens](https://github.com/xChickens/xChickens)
+1. 💪 Opened PR [#13](https://github.com/MaciejGorczyca/HextechButBetter/pull/13) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
+2. 💬 Commented on [#12](https://github.com/MaciejGorczyca/HextechButBetter/pull/12#issuecomment-1225314006) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
+3. 💪 Opened PR [#12](https://github.com/MaciejGorczyca/HextechButBetter/pull/12) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
+4. 🔱 Forked [xChickens/HextechButBetter](https://github.com/xChickens/HextechButBetter) from [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
+5. 💬 Commented on [#11](https://github.com/MaciejGorczyca/HextechButBetter/issues/11#issuecomment-1225259599) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 23rd, 2022, 11:34:55 PM
+Last Updated: Wednesday, August 24th, 2022, 12:09:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
