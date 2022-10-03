@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [xChickens/HextechButBetter](https://github.com/xChickens/HextechButBetter)
-2. 💪 Opened PR [#13](https://github.com/MaciejGorczyca/HextechButBetter/pull/13) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
-3. 💬 Commented on [#12](https://github.com/MaciejGorczyca/HextechButBetter/pull/12#issuecomment-1225314006) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
-4. 💪 Opened PR [#12](https://github.com/MaciejGorczyca/HextechButBetter/pull/12) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
-5. 🔱 Forked [xChickens/HextechButBetter](https://github.com/xChickens/HextechButBetter) from [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
+1. 💬 Commented on [#34](https://github.com/marvinscham/disenchanter/issues/34#issuecomment-1264896883) in [marvinscham/disenchanter](https://github.com/marvinscham/disenchanter)
+2. 🔱 Forked [xChickens/disenchanter](https://github.com/xChickens/disenchanter) from [marvinscham/disenchanter](https://github.com/marvinscham/disenchanter)
+3. 💪 Opened PR [#14](https://github.com/MaciejGorczyca/HextechButBetter/pull/14) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
+4. ⬆️ Pushed 4 commit(s) to [xChickens/HextechButBetter](https://github.com/xChickens/HextechButBetter)
+5. 💪 Opened PR [#13](https://github.com/MaciejGorczyca/HextechButBetter/pull/13) in [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 2nd, 2022, 6:55:50 PM
+Last Updated: Sunday, October 2nd, 2022, 7:55:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
