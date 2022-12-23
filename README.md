@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#161](https://github.com/RickDB/PlexAniSync/issues/161) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)
-2. 💬 Commented on [#161](https://github.com/RickDB/PlexAniSync/issues/161#issuecomment-1328559902) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)
-3. ❗️ Opened issue [#161](https://github.com/RickDB/PlexAniSync/issues/161) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)
-4. 💬 Commented on [#7](https://github.com/Kyrluckechuck/TFT-Bot/issues/7#issuecomment-1315153168) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)
-5. ❗️ Opened issue [#24](https://github.com/Kyrluckechuck/tft-bot/issues/24) in [Kyrluckechuck/tft-bot](https://github.com/Kyrluckechuck/tft-bot)
+1. ⭐ Starred [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)
+2. ⭐ Starred [Detergent13/tft-bot](https://github.com/Detergent13/tft-bot)
+3. ✔️ Closed issue [#161](https://github.com/RickDB/PlexAniSync/issues/161) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)
+4. 💬 Commented on [#161](https://github.com/RickDB/PlexAniSync/issues/161#issuecomment-1328559902) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)
+5. ❗️ Opened issue [#161](https://github.com/RickDB/PlexAniSync/issues/161) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 23rd, 2022, 12:08:06 AM
+Last Updated: Friday, December 23rd, 2022, 12:34:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
