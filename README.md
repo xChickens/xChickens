@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#84](https://github.com/KieronQuinn/ClassicPowerMenu/issues/84) in [KieronQuinn/ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu)<br>
-2. ⭐ Starred [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
-3. ⭐ Starred [Detergent13/tft-bot](https://github.com/Detergent13/tft-bot)<br>
-4. ✔️ Closed issue [#161](https://github.com/RickDB/PlexAniSync/issues/161) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)<br>
-5. 💬 Commented on [#161](https://github.com/RickDB/PlexAniSync/issues/161#issuecomment-1328559902) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)<br>
+1. ⭐ Starred [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved)<br>
+2. ❗️ Opened issue [#84](https://github.com/KieronQuinn/ClassicPowerMenu/issues/84) in [KieronQuinn/ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu)<br>
+3. ⭐ Starred [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
+4. ⭐ Starred [Detergent13/tft-bot](https://github.com/Detergent13/tft-bot)<br>
+5. ✔️ Closed issue [#161](https://github.com/RickDB/PlexAniSync/issues/161) in [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync)<br>
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 16th, 2023, 11:31:53 PM
+Last Updated: Friday, February 17th, 2023, 12:09:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
