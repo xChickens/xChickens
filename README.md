@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder)<br>
-2. ⭐ Starred [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved)<br>
-3. ❗️ Opened issue [#84](https://github.com/KieronQuinn/ClassicPowerMenu/issues/84) in [KieronQuinn/ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu)<br>
-4. ⭐ Starred [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
-5. ⭐ Starred [Detergent13/tft-bot](https://github.com/Detergent13/tft-bot)<br>
+1. ❗️ Opened issue [#83](https://github.com/Kyrluckechuck/TFT-Bot/issues/83) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
+2. ⭐ Starred [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder)<br>
+3. ⭐ Starred [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved)<br>
+4. ❗️ Opened issue [#84](https://github.com/KieronQuinn/ClassicPowerMenu/issues/84) in [KieronQuinn/ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu)<br>
+5. ⭐ Starred [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 10:09:12 PM
+Last Updated: Tuesday, February 21st, 2023, 10:38:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
