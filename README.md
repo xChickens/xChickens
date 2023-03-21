@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#204](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved/issues/204) in [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved)<br>
-2. ❗️ Opened issue [#83](https://github.com/Kyrluckechuck/TFT-Bot/issues/83) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
-3. ⭐ Starred [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder)<br>
-4. ⭐ Starred [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved)<br>
-5. ❗️ Opened issue [#84](https://github.com/KieronQuinn/ClassicPowerMenu/issues/84) in [KieronQuinn/ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu)<br>
+1. ⭐ Starred [MaciejGorczyca/HextechButBetter](https://github.com/MaciejGorczyca/HextechButBetter)<br>
+2. ⭐ Starred [marvinscham/disenchanter](https://github.com/marvinscham/disenchanter)<br>
+3. ❗️ Opened issue [#204](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved/issues/204) in [LeagueOfPoro/CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved)<br>
+4. ❗️ Opened issue [#83](https://github.com/Kyrluckechuck/TFT-Bot/issues/83) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
+5. ⭐ Starred [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder)<br>
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 20th, 2023, 6:41:48 PM
+Last Updated: Monday, March 20th, 2023, 7:06:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
