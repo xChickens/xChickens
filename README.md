@@ -27,15 +27,15 @@ Currently, I'm open to full-time opportunities, in any fields of Software Develo
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#89](https://github.com/BlueHuskyStudios/Rent-Split/issues/89#issuecomment-1636994403) in [BlueHuskyStudios/Rent-Split](https://github.com/BlueHuskyStudios/Rent-Split)<br>
-2. ❗️ Opened issue [#89](https://github.com/BlueHuskyStudios/Rent-Split/issues/89) in [BlueHuskyStudios/Rent-Split](https://github.com/BlueHuskyStudios/Rent-Split)<br>
-3. 💬 Commented on [#167](https://github.com/Kyrluckechuck/TFT-Bot/issues/167#issuecomment-1550085590) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
-4. 💬 Commented on [#167](https://github.com/Kyrluckechuck/TFT-Bot/issues/167#issuecomment-1546761388) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
-5. 💬 Commented on [#167](https://github.com/Kyrluckechuck/TFT-Bot/issues/167#issuecomment-1546760929) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
+1. ✔️ Closed issue [#89](https://github.com/BlueHuskyStudios/Rent-Split/issues/89) in [BlueHuskyStudios/Rent-Split](https://github.com/BlueHuskyStudios/Rent-Split)<br>
+2. 💬 Commented on [#89](https://github.com/BlueHuskyStudios/Rent-Split/issues/89#issuecomment-1647083722) in [BlueHuskyStudios/Rent-Split](https://github.com/BlueHuskyStudios/Rent-Split)<br>
+3. 💬 Commented on [#89](https://github.com/BlueHuskyStudios/Rent-Split/issues/89#issuecomment-1636994403) in [BlueHuskyStudios/Rent-Split](https://github.com/BlueHuskyStudios/Rent-Split)<br>
+4. ❗️ Opened issue [#89](https://github.com/BlueHuskyStudios/Rent-Split/issues/89) in [BlueHuskyStudios/Rent-Split](https://github.com/BlueHuskyStudios/Rent-Split)<br>
+5. 💬 Commented on [#167](https://github.com/Kyrluckechuck/TFT-Bot/issues/167#issuecomment-1550085590) in [Kyrluckechuck/TFT-Bot](https://github.com/Kyrluckechuck/TFT-Bot)<br>
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 23rd, 2023, 4:36:52 PM
+Last Updated: Sunday, July 23rd, 2023, 6:01:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
