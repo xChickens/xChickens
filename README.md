@@ -27,15 +27,13 @@ Currently, I'm open to full-time opportunities in any fields of Software Develop
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#533](https://github.com/null2264/yokai/issues/533#issuecomment-3566876166) in [null2264/yokai](https://github.com/null2264/yokai)<br>
-2. 💬 Commented on [#11717](https://github.com/keiyoushi/extensions-source/issues/11717#issuecomment-3566874502) in [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
-3. ✔️ Closed issue [#11717](https://github.com/keiyoushi/extensions-source/issues/11717) in [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
-4. ❗️ Opened issue [#11717](https://github.com/keiyoushi/extensions-source/issues/11717) in [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source)<br>
-5. ❗️ Opened issue [#533](https://github.com/null2264/yokai/issues/533) in [null2264/yokai](https://github.com/null2264/yokai)<br>
+1. ❗️ Opened issue [#3](https://github.com/raztronaut/caprine/issues/3) in [raztronaut/caprine](https://github.com/raztronaut/caprine)<br>
+2. ⬆️ Pushed undefined commit(s) to [xChickens/revanced-magisk-module](https://github.com/xChickens/revanced-magisk-module)<br>
+3. 💬 Commented on [#452](https://github.com/null2264/yokai/issues/452#issuecomment-3643398597) in [null2264/yokai](https://github.com/null2264/yokai)<br>
 <!--RECENT_ACTIVITY:end-->
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 30th, 2025, 4:57:10 PM
+Last Updated: Wednesday, December 31st, 2025, 4:56:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
